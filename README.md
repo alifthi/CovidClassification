@@ -1,4 +1,4 @@
-# CodivClassification
+# CovidClassification
 
 this model  from Radiology image can detect that a person have covid-19 
 
