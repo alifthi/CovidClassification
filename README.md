@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/alifrahman/covid19-chest-xray-image-dataset
 
 # Requirements
 
-open Cv version '4.5.4'
+open CV version '4.5.4'
 
 numpy version '1.20.3'
 
