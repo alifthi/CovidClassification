@@ -1,6 +1,6 @@
 # CovidClassification
 
-this model  from Radiology image can detect that a person have covid-19 
+this model can detect who have covid-19 from Radiology image
 
 Dataset downloaded from following link:
 
